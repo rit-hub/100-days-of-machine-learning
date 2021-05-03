@@ -1,0 +1,5 @@
+1. machine learning vs procedural programming?
+2. advantages of machine learning over native programming
+3. how machine learning works
+4. starting of machine learning
+5. salary of a ml engineer
