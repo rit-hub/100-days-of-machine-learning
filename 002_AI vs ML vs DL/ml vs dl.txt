@@ -1,0 +1,6 @@
+1. Dl is a subset of ml
+2. ml is a subset of AI
+3. ml is good in smaller data set
+4. dl is very much efficient in larger data set
+5. in case of ml we have to specify the features of a given task
+6. in case of dl our model automatically generates and detects the features of our task/ problem.
